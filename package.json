@@ -2,7 +2,8 @@
   "name": "es6-poo-babel",
   "version": "1.0.0",
   "description": "1. Ejecutar el comando inicializar el proyecto\r `npm init -y`",
-  "main": "index.js",
+  "main": "main.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

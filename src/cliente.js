@@ -12,6 +12,6 @@ export default class Cliente {
 
     calcularImpuesto() {
 
-        return console.log(`impuesto total a pagar: ${(this._impuestos.montoBrutoAnual - this._impuestos.deducciones) * 0.21}`)
+        return console.log(`impuesto total a pagar: ${(this._impuestos.montoBrutoAnual - this._impuestos.deducciones) * 0.21}`);
     }
 }

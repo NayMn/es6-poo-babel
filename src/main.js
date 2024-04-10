@@ -1,4 +1,4 @@
-import Cliente from "./main.js";
+import Cliente from "./cliente.js";
 import Impuestos from "./impuestos.js";
 
 let primerImpuesto = new Impuestos(100, 20);
